@@ -1,0 +1,20 @@
+.not-found-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.not-found-container h1 {
+    font-size: 36px;
+    color: #ad84e0;
+}
+
+.not-found-container p {
+    font-size: 18px;
+}
+
+.btn-primary {
+    text-decoration: none;
+}
